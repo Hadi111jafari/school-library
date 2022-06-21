@@ -4,6 +4,20 @@
 - Add new students or teachers.
 - Add new books.
 - Save records of who borrowed a given book and when.
+# Getting Started
+
+To get a local copy of the project, follow these steps: 
+1. Open the terminal and navigate to the folder where you would like to put these files.
+2. Type the following commands into the terminal: 
+ ```
+ git clone https://github.com/Hadi111jafari/school-library
+ ```
+ ```
+ cd school-library
+ ```
+  ```
+ code .
+ ```
 ## Author
 
 👤 **Hadi Jafari**
