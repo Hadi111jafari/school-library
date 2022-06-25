@@ -35,7 +35,7 @@ class App
   end
 
   def create_student(age, name, _permission, classroom)
-    student_info = Student.new(classroom, age, name)
+    student_info = Student.new(classroom, age, name, parent_permission)
     @person.push(student_info)
     puts 'Person created successfully'
   end
