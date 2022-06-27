@@ -31,7 +31,7 @@ To get a local copy of the project, follow these steps:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hadi111jafari/school-library/issues).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
