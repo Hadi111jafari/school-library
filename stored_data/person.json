@@ -19,5 +19,12 @@
     "id": 828,
     "status": "Student",
     "classroom": "cde"
+  },
+  {
+    "name": "Eloi",
+    "age": "16",
+    "id": 424,
+    "status": "Student",
+    "classroom": "null"
   }
 ]

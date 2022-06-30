@@ -1,6 +1,4 @@
 require 'json'
-require_relative '../student'
-require_relative '../teacher'
 
 def save_person(person)
   person_data = []

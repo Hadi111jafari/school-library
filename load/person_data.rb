@@ -3,8 +3,9 @@ require_relative '../student'
 require_relative '../teacher'
 
 def person_data(person)
-  File.write('./stored_data/person.json', JSON.pretty_generate([])) unless File.exist?('./stored_data/person.json')
-  @file_person = File.read('./stored_data/person.json')
+  file = './stored_data/person.json'
+  File.write(file, JSON.pretty_generate([])) unless File.exist?(file)
+  @file_person = File.read(file)
   return if @file_person.empty?
 
   data_person = JSON.parse(@file_person)
