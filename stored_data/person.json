@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hf",
+    "age": "34",
+    "id": 286,
+    "status": "Student",
+    "classroom": "dja"
+  },
+  {
+    "name": "Ali",
+    "age": "25",
+    "id": 952,
+    "status": "Student",
+    "classroom": "math"
+  },
+  {
+    "name": "Abc",
+    "age": "34",
+    "id": 828,
+    "status": "Student",
+    "classroom": "cde"
+  },
+  {
+    "name": "Eloi",
+    "age": "16",
+    "id": 424,
+    "status": "Student",
+    "classroom": "null"
+  }
+]
